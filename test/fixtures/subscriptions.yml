@@ -2,10 +2,8 @@
 
 one:
   name: MyString
-  description: MyText
-  picture: MyString
+  amount: MyInteger
 
 two:
   name: MyString
-  description: MyText
-  picture: MyString
+  amount: MyInteger
